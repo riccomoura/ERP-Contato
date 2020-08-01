@@ -1,0 +1,7 @@
+- Modelagem do Sistema;
+- Plano do Projeto;
+- Coleta de Requerimentos;
+- Plano de Gerenciamento;
+- Definir Gerência e Execução;
+- Definir uso de metodologia ágil.
+- Termo de Abertura do Projeto.
